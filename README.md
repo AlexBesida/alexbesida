@@ -1,16 +1,15 @@
-### Hi there 👋
+### 🥳 Hey there!
+- 😁 I am `16 y.o.` 🇺🇦 ukrainian, which does  `🎨 Design`,  `🧑🏻‍💻 Developing`, and  `⚡ Competitive problem solving`  stuff.
 
-<!--
-**AlexBesida/alexbesida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 As a designer,
+- 🧑 I am `📱 UI/UX designer`, specialized into `🖐🏻 Intercation design`.
+- 🕒 Currently working at `🏢 JetUp Digital LLC`. 
+- 💭 ...and researching new possibilities for interaction with GUIs ✨
 
-Here are some ideas to get you started:
+### 🧑🏻‍💻 As a developer,
+- ⌛ In spare time I'm `🖥️ Flutter & Dart` developer.
+- 🔦 Focused into `📐 Slikker Design System` implementation and documentation.
+- 🔮 Also familiar with `🌐 JS/TS` languages, `🪟 UWP` development, and `🌟 ReactJS`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ As a competitive programmer,
+- ✍🏻 Writing problem-solving code on `🕝 C++` and `🐍 Python`.
