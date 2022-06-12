@@ -1,5 +1,5 @@
 ### 🥳 Hey there!
-- 😁 I am  `16 y.o.`  🇺🇦 ukrainian, which does  `🎨 Design`,  `🧑🏻‍💻 Developing`,  and  `⚡ Competitive problem solving`  stuff.
+- 😁 I am  `17 y.o.`  🇺🇦 ukrainian, which does  `🎨 Design`,  `🧑🏻‍💻 Developing`,  and  `⚡ Competitive problem solving`  stuff.
 
 ### 🎨 As a designer,
 - 🧑🏻 I am a  `📱 UI/UX designer`, who specialized in  `🖐🏽 Interaction design`.
