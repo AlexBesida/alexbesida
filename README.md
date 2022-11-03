@@ -3,7 +3,6 @@
 
 ### 🎨 As a designer,
 - 🧑🏻 I am a  `📱 UI/UX designer`, who specialized in  `🖐🏽 Interaction design`.
-- 🕒 Currently employed at  `🏢 JetUp Digital LLC`. 
 - 💭 ...and researching new possibilities for interaction with GUIs ✨
 
 ### 🧑🏻‍💻 As a developer,
