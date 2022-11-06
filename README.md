@@ -1,5 +1,5 @@
 ### 🥳 Hey there!
-- 😁 I am  `17 y.o.`  🇺🇦 ukrainian, which does  `🎨 Design`,  `🧑🏻‍💻 Developing`,  and  `⚡ Competitive problem solving`  stuff.
+- 😁 I'm a Ukrainian he/him living in Stockholm, Sweden. I use my  `🎨 Design`,  `🧑🏻‍💻 Developing`,  and  `⚡ Competitive problem solving`  skills to express myself.
 
 ### 🎨 As a designer,
 - 🧑🏻 I am a  `📱 UI/UX designer`, who specialized in  `🖐🏽 Interaction design`.
