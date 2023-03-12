@@ -1,7 +1,7 @@
 ### &nbsp;&nbsp; — 🥳 Hey there!
-- I'm a Ukrainian he/him based in 📍 Stockholm, Sweden. 
-- Currently, I'm working at  `💼 Norditech AB`  as a UI/UX Designer and Flutter Developer.<br><br>
-- I use my  `🎨 Design` ,  `🧑🏻‍💻 Developing` ,  and  `⏱️ Competitive programming`  skills to express myself.
+- I'm a Ukrainian he/him based in  `📍 Stockholm, Sweden`. 
+- I use my  `🎨 Design`,  `🧑🏻‍💻 Developing`,  and  `⏱️ Competitive programming`  skills to express myself.
+- Currently employed at  `🏢 Norditech AB`  as a UI/UX Designer and Flutter Developer.<br><br>
 
 ### &nbsp;&nbsp; — 🎨 As a designer,
 - I am a  `📱 UI/UX designer`, specializing in  `🖐🏽 Interaction design`. <br>
