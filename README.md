@@ -1,16 +1,16 @@
 ### &nbsp;&nbsp; — 🥳 Hey there!
-- I'm a Ukrainian he/him living in Stockholm, Sweden. I use my  `🎨 Design`,  `🧑🏻‍💻 Developing`,  and  `⚡ Competitive problem solving`  skills to express myself. <br><br>
-
+- I'm a Ukrainian he/him based in 📍 Stockholm, Sweden. 
+- Currently, I'm working at  `💼 Norditech AB`  as a UI/UX Designer and Flutter Developer.<br><br>
+- I use my  `🎨 Design` ,  `🧑🏻‍💻 Developing` ,  and  `⏱️ Competitive programming`  skills to express myself.
 
 ### &nbsp;&nbsp; — 🎨 As a designer,
-- I am a  `📱 UI/UX designer`, who specialized in  `🖐🏽 Interaction design`. <br>
+- I am a  `📱 UI/UX designer`, specializing in  `🖐🏽 Interaction design`. <br>
 - ...and researching new possibilities for interaction with GUIs ✨ <br><br>
 
 ### &nbsp;&nbsp; — 🧑🏻‍💻 As a developer,
-- In spare time I'm a  `🖥️ Flutter & Dart`  developer. <br>
-- Focused on  `📐 Slikker Design System`  implementation and documentation. <br>
-- Also familiar with  `🌐 JS/TS`  languages,  `🪟 UWP`  development,  `🌟 ReactJS`, and  `🔩 Hybrid apps`. <br><br>
+- Most of the time I am  `🖥️ Flutter & Dart`  developer. <br>
+- Also familiar with  `🌐 JS/TS`  languages and  `🪟 UWP`  development. <br><br>
 
 
-### &nbsp;&nbsp; — ⚡ As a competitive programmer,
-- Writing problem-solving code on  `🕝 C++`  and  `🐍 Python`.
+### &nbsp;&nbsp; — ⏱️ As a competitive programmer,
+- Writing problem-solving code on  `🏃‍♂️ C++`  and  `🐍 Python`.
