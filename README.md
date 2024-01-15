@@ -20,7 +20,7 @@
 |---|---|---|
 |🌸 [`phalaenopsis`](https://github.com/olksij/phalaenopsis)|A past future version of [olek.si](https://olek.si)|This repository has a Typescript code I am most proud ✨ of. The project had a custom-dom parser that generated a skeleton tree, and a morphing engine that morphed the skeleton into text.|
 |🕯️ [`candlewax`](https://github.com/olksij/skribo.link)|The current (old) implementation of [skribo.link](https://skribo.link)|This is a complete sideproject that was my first intention to make a communication between people more thoughtful 💌, though I made it in a less than a month, based on my experience now I am creating `ceramic` ⚡️|
-|🪨 [`slate`](https://github.com/olksij/skribo.link)|The current implementation of [olek.si](https://olek.si)|A a simple Typescript website (`orchid`) with a loader inherited from `phalaenopsis`. It still has some nice code.|
+|🪨 [`slate`](https://github.com/olksij/olek.si)|The current implementation of [olek.si](https://olek.si)|A a simple Typescript website (`orchid`) with a loader inherited from `phalaenopsis`. It still has some nice code.|
 |🍽️ `ceramic`|The work in progress version of `Skribo` I am excited about 😻|A happiness-sharing app I am developing (for a long time), which is a place for a number of meaningful interactions possible between people. You may see updates of it on my [𝕏](https://x.com/oleksiibe) or [Layers](https://layers.to/olksij) 😁|
 
 <br><p align="center"><i>I'm still a designer, though. </i>&nbsp;🧑‍🎨</p>
